@@ -4,20 +4,25 @@
   <img src="https://i.imgur.com/L9ovFNl.gif" alt="Banner" />
 </p>
 
-## 👀 I’m interested in:
-- Exploring the intersection of **technology and creativity**.
-- Passionate about **web development, AI, and multimedia content creation**.
-- Always eager to learn new technologies and methodologies to push the boundaries of what’s possible.
+## 👀 I’m focused on:
+- **Cybersecurity operations**: SOC analysis, threat detection, incident response
+- Learning and applying **network security, SIEM**, and endpoint protection
+- Staying sharp on the latest **attack vectors and adversarial tactics**
 
-## 🌱 I’m currently learning:
-- **Advanced AI-driven web analytics**.
-- **Full-stack development** with a focus on **React and Node.js**.
-- Enhancing my skills in **UI/UX design**.
+## 🧠 Currently diving into:
+- **Threat intelligence** using tools like Splunk, Wazuh, and Elastic SIEM
+- **MITRE ATT&CK framework**, adversary emulation, and TTP analysis
+- Practical skills in **packet analysis**, log correlation, and alert triage
 
-## 💞️ I’m looking to collaborate on:
-- **Open-source projects** that involve web development and AI.
-- Innovative apps requiring **deep learning and image recognition**.
-- **Creative content projects** where tech meets storytelling.
+## 🤝 Looking to collaborate on:
+- Open-source **blue team** or SOC-related projects
+- **CTFs**, detection engineering, or building home labs
+- Cybersecurity learning communities and research
+
+## 🧩 Also experienced in:
+- Python scripting and automation for security tasks
+- Web development (React, Node.js) with a security-first mindset
+- Building dashboards and tools to support data-driven decisions
 
 ## 📫 How to reach me:
 - **Email:** [josh.developer.portal@gmail.com](mailto:josh.developer.portal@gmail.com)
@@ -28,15 +33,16 @@
 - **He/Him**
 
 ## ⚡ Fun fact:
-- I’m a passionate gamer and have worked on various gaming-related projects, including **video editing for gaming content**!
+- I started in creative tech, editing gaming content — now I use that same passion to detect and defend against real-world threats.
 
 ---
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Development-%23007ACC.svg?style=for-the-badge&logo=web-development&logoColor=white" alt="Web Development" />
-  <img src="https://img.shields.io/badge/AI_Machine_Learning-%23F7DF1E.svg?style=for-the-badge&logo=ai&logoColor=black" alt="AI & Machine Learning" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-%23F45042.svg?style=for-the-badge&logo=uiux&logoColor=white" alt="UI/UX Design" />
+  ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-00BFFF?style=for-the-badge)
+  ![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-129BDB?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge)
 </p>
 
 <!-- Social Icons -->
