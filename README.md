@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Josh Earl Conrad D.C. Paclibar (@JoshDevsReal)
+# 👋 Hi, I’m Josh Earl Conrad D.C. Paclibar (@UNKMyst)
 
 <p align="center">
   <img src="https://i.imgur.com/L9ovFNl.gif" alt="Banner" />
@@ -39,11 +39,11 @@
 
 <!-- Badges Section -->
 <p align="center">
-  ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-00BFFF?style=for-the-badge)
-  ![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-129BDB?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge)
-</p>
+  <img src="https://img.shields.io/badge/SOC_Analyst-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-129BDB?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge" />
+<p>
 
 <!-- Social Icons -->
 <p align="center">
